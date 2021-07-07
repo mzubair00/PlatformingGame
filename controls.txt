@@ -1,0 +1,6 @@
+Movement:
+A, Left Arrow: Move Left
+D, Right Arrow: Move Right
+Space: Jump
+
+R: Reset (don't hold)
