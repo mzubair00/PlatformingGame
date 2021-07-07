@@ -1,0 +1,3 @@
+Platformer made in Unity in order to brush-up on programming skills.
+Movement and collisions based entirely on C# code in tandem with Unity's physics objects and engines.
+Focus and fine-tuning on general movement of square and jumping.
